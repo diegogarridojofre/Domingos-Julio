@@ -1,2 +1,5 @@
 # Domingos-Julio
-Actividad echa en clases, subir archivo .json domingos y feriados
+Actividad hecha en clases, subir archivo .json domingos y feriados
+
+# Feriados del año
+Actividad hecha en clases, subir .json de feriados
